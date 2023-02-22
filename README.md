@@ -1,5 +1,5 @@
-# Hall2022_Paper
-Analysis tools used in Hall, et al., 2022 Paper - Centriolar satellites expedite mother centriole remodeling to promote ciliogenesis
+# Hall2023_Paper
+Analysis tools used in Hall, et al., 2023 Paper - Centriolar satellites expedite mother centriole remodeling to promote ciliogenesis
 
 [Published in eLife February 2023](https://elifesciences.org/articles/79299)
 
