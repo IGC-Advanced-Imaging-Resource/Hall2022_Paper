@@ -1,7 +1,7 @@
 # Hall2022_Paper
 Analysis tools used in Hall, et al., 2022 Paper - Centriolar satellites expedite mother centriole remodeling to promote ciliogenesis
 
-[Published in eLife](https://elifesciences.org/articles/79299)
+[Published in eLife February 2023](https://elifesciences.org/articles/79299)
 
   * Basal_bodies_in_ependymal_cells.cpipe (CellProfiler pipeline)
      * Can be tested using "Clumps_in_cells.tif"
